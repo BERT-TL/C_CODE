@@ -3,7 +3,7 @@
 #include<stdio.h>
 
 int main() {
-	/*int i = 0;
+	/*int i = 0; 
 	scanf("%d", &i);
 	switch (i)
 	{
@@ -11,7 +11,7 @@ int main() {
 		printf("星期一\n");
 		break;
 	case 2:
-		printf("星期二\n");
+		printf("星期二\n"); 
 		break;
 	default:
 		printf("输入错误！");
@@ -52,7 +52,7 @@ int main() {
 	//{
 	//	printf("%d ", arr2[i]);
 	//}
-
+	
 
 
 
