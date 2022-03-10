@@ -1,0 +1,3 @@
+﻿  test_8.c
+H:\C-VS2019\test\Project_8\test_8.c(260): warning C4716: “print”: 必须返回一个值
+  Project_8.vcxproj -> H:\C-VS2019\test\Project_8\Debug\Project_8.exe
